@@ -1,0 +1,6 @@
+web3==5.31.0
+tensorflow==2.11.0
+pandas==1.5.3
+numpy==1.23.5
+logging==0.5.1.2
+flask==2.2.2

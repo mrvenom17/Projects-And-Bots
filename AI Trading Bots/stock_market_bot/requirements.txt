@@ -1,0 +1,8 @@
+yfinance==0.1.74
+alpha_vantage==2.3.1
+alpaca-trade-api==1.4.0
+tensorflow==2.11.0
+pandas==1.5.3
+numpy==1.23.5
+logging==0.5.1.2
+flask==2.2.2

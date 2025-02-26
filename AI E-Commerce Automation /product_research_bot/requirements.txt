@@ -1,0 +1,7 @@
+selenium==4.8.0
+beautifulsoup4==4.11.1
+pandas==1.5.3
+openai==0.27.0
+flask==2.2.2
+logging==0.5.1.2
+webdriver-manager==3.8.5

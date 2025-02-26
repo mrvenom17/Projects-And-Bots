@@ -1,0 +1,5 @@
+ccxt==3.0.58
+pandas==1.5.3
+numpy==1.23.5
+flask==2.2.2
+logging==0.5.1.2

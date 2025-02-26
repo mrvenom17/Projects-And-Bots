@@ -1,0 +1,6 @@
+flask==2.2.2
+fastapi==0.89.1
+django==4.1.7
+tensorflow==2.11.0
+docker==6.0.1
+logging==0.5.1.2

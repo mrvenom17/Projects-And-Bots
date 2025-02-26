@@ -1,0 +1,8 @@
+google-api-python-client==2.51.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+openai==0.27.0
+pandas==1.5.3
+numpy==1.23.5
+logging==0.5.1.2
+flask==2.2.2
