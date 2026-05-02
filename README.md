@@ -55,7 +55,7 @@ The repository is divided into five main categories, each containing specialized
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mrvenom17/Projects-And-Bots.git
    cd Projects-And-Bots
 
 2. **Install dependencies:**
